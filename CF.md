@@ -6,7 +6,7 @@
     SEO蜘蛛放行
         (cf.client.bot) or (http.user_agent contains "duckduckgo") or (http.user_agent contains "facebookexternalhit") or (http.user_agent contains "Feedfetcher-Google") or (http.user_agent contains "Mediapartners-Google") or (http.user_agent contains "msnbot") or (http.user_agent contains "TwitterBot") or (http.user_agent contains "yahoo")
         选择操作:跳过
-        要跳过的 WAF 组件:所有其余自定义规则
+        勾选 WAF 组件:所有其余自定义规则
 ![image](https://github.com/cow-study-notes/CFCFCF/assets/105910804/995ce640-a201-4ea9-9b0e-6f2d46529cac)
 ![image](https://github.com/cow-study-notes/CFCFCF/assets/105910804/dcd5288f-5d65-4522-b658-31215750c760)
 
